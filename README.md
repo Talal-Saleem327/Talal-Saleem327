@@ -1,8 +1,8 @@
 ![Header](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Talal Saleem</h1>
 <h3 align="center">A dedicated data scientist with a focus on machine learning and data analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talal927&label=Profile%20views&color=0e75b6&style=flat" alt="Talal-Saleem327" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2ab1b2eaee589c54a0e499969d2567dece1c83239972c8351301d24eba78e41e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talalsaleem327&label=Profile%20views&color=0e75b6&style=flat" alt="Talal-Saleem327" /> </p>
 
 
 
@@ -12,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Talal-Saleem327" height="30" width="40" /></a>
 <a href="https://instagram.com/_talalsaleem_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_talalsaleem_" height="30" width="40" /></a>
 </p>
 
@@ -23,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Talal-Saleem327&show_icons=true&locale=en" alt="Talal-Saleem327" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Talal-Saleem327&" alt="Talal-Saleem327" /></p>
