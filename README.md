@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **ROR**
 
 - 📫 How to reach me **talalmayo07@gmail.com**
 
